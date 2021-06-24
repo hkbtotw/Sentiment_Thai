@@ -9,6 +9,6 @@ How: <br />
 2.Run  <br />
    python Sentiment_analysis_thaiSentiment.py <br />
 
-
-# ref: https://colab.research.google.com/drive/1Kbk6sBspZLwcnOE61adAQo30xxqOQ9ko?usp=sharing#scrollTo=_oq4vnrz9aa8     (wangchanBerta)
-# ref: https://github.com/cstorm125/thai_sentiment  (thai_sentiment)
+# Ref:
+[1] https://colab.research.google.com/drive/1Kbk6sBspZLwcnOE61adAQo30xxqOQ9ko?usp=sharing#scrollTo=_oq4vnrz9aa8     (wangchanBerta)
+[2] https://github.com/cstorm125/thai_sentiment  (thai_sentiment)
